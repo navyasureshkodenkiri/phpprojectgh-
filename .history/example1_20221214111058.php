@@ -7,7 +7,7 @@
             color: red;
         }
     </style>
- </head>
+</head>
   
 <body>
     <center>
@@ -20,19 +20,16 @@
 
             ?>
             </h2>
-    
-    <h1>
+    </center>
     <p>
 <?php 
     echo "Complete <strong>Portal</strong> for Geeks."
-    ?>
+?>
         <br><br>
         <?php
         echo 'Explore, learn and grow.'
         ?>
         </p>
-        </h1>
-        </center>
 </body>
   
 </html>

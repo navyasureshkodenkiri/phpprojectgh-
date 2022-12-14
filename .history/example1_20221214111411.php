@@ -7,7 +7,7 @@
             color: red;
         }
     </style>
- </head>
+</head>
   
 <body>
     <center>
@@ -32,7 +32,7 @@
         ?>
         </p>
         </h1>
-        </center>
+        
 </body>
   
 </html>

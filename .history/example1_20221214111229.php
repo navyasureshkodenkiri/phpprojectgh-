@@ -7,7 +7,7 @@
             color: red;
         }
     </style>
- </head>
+</head>
   
 <body>
     <center>
@@ -20,7 +20,7 @@
 
             ?>
             </h2>
-    
+    </center>
     <h1>
     <p>
 <?php 
@@ -31,8 +31,7 @@
         echo 'Explore, learn and grow.'
         ?>
         </p>
-        </h1>
-        </center>
+        <h1
 </body>
   
 </html>

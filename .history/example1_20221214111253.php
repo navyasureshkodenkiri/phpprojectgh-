@@ -7,7 +7,7 @@
             color: red;
         }
     </style>
- </head>
+</head>
   
 <body>
     <center>
@@ -20,7 +20,7 @@
 
             ?>
             </h2>
-    
+    </center>
     <h1>
     <p>
 <?php 
@@ -32,7 +32,6 @@
         ?>
         </p>
         </h1>
-        </center>
 </body>
   
 </html>

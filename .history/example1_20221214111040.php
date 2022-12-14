@@ -7,7 +7,7 @@
             color: red;
         }
     </style>
- </head>
+</head>
   
 <body>
     <center>
@@ -18,21 +18,8 @@
             echo "This is PHP code inside html";
             echo "php new text added"
 
-            ?>
-            </h2>
-    
-    <h1>
-    <p>
-<?php 
-    echo "Complete <strong>Portal</strong> for Geeks."
-    ?>
-        <br><br>
-        <?php
-        echo 'Explore, learn and grow.'
-        ?>
-        </p>
-        </h1>
-        </center>
+            ?>        </h2>
+    </center>
 </body>
   
 </html>
