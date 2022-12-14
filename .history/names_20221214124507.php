@@ -1,5 +1,5 @@
 <?php
-$names=['raju','john', 'ramya', 'kavya','pwre'];
+$names=['raju','john', 'ramya', 'kavya'];
 ?>
 
 
@@ -16,7 +16,7 @@ $names=['raju','john', 'ramya', 'kavya','pwre'];
             color: white;
         }
         .more-names{
-            background-color: blueviolet;
+            background-color: b;
         }
     </style>
    </head>
