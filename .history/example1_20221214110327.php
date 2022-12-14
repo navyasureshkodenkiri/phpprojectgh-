@@ -16,9 +16,8 @@
         <h2>
             <?php 
             echo "This is PHP code inside html";
-            echo "new one added";
-            echo "php new text added"
-
+            echo "new one added"
+            
             ?>
         </h2>
     </center>
