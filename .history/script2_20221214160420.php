@@ -8,8 +8,7 @@
      // echo "visit to w3school<br>";
      //  $string1=file_get_contents("https://www.w3school.com");
      //  echo $string1;
-      $string2=file_get_contents("index.php");
-      echo $string2;
+      echo $string2=file_get_contents("index.php");
 
      
     
